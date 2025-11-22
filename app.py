@@ -8,3 +8,6 @@ hours = float(hours)
 
 # Calculate estimated weekly study hours
 weekly_hours = hours * 7
+
+# Display results
+print(f"You are on track to study {weekly_hours} hours this week.")
